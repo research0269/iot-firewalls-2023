@@ -1,0 +1,11 @@
+graphs/
+venv/
+*.log
+**/__pycache__/
+eval_src/data/**
+.vscode/
+!eval_src/data/devs.parquet
+!eval_src/data/flows.only.parquet
+!eval_src/data/real_world/
+!eval_src/data/real_world/**
+firewalls_src/data/allowlists/**

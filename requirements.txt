@@ -1,0 +1,13 @@
+pandas==1.4.2
+tldextract==3.2.1
+pyasn==1.6.1
+pyarrow==7.0.0
+matplotlib==3.5.1
+seaborn==0.11.2
+textdistance==4.2.2
+scikit_learn==1.0.2
+suffix_trees==0.3.0
+tld==0.12.6
+tables==3.7.0
+scapy==2.4.4
+netfilterqueue==1.0.0

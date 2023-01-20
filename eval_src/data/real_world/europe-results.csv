@@ -1,0 +1,149 @@
+device,functionality,domain,hostname,pattern,ip
+Nintendo Switch,eShop (first time),Working,Working,Working,Not Working
+Nintendo Switch,eShop (Not first time),Working,Working,Working,Not Working
+Nintendo Switch,News,Working,Working,Working,Not Working
+Nintendo Switch,Switch Online,Working,Working,Working,Not Working
+Nintendo Switch,Link account,Working,Working,Working,Not Working
+Nintendo Switch,Download app,Working,Working,Working,Not Working
+Nintendo Switch,Friends,Working,Working,Working,Not Working
+Nintendo Switch,App (YouTube),Working,Working,Working,Not Working
+Nintendo Switch,Purchase an app,Working,Working,Working,Not Working
+Nintendo Switch,Factory Reset,Working,Working,Working,Not Working
+Nintendo Switch,Initial Setup,Working,Working,Working,Not Working
+Chamberlain Garage,Control Garage Door,Fail to Connect,Fail to Connect,Fail to Connect,Fail to Connect
+Chamberlain Garage,Schedule,Fail to Connect,Fail to Connect,Fail to Connect,Fail to Connect
+Chamberlain Garage,Alerts,Fail to Connect,Fail to Connect,Fail to Connect,Fail to Connect
+DLink Camera,Live View,Working,Working,Working,Working
+DLink Camera,Move camera,Working,Working,Working,Working
+DLink Camera,Two-way audio,Working,Working,Working,Working
+DLink Camera,Motion/People detection,Working,Working,Working,Working
+DLink Camera,Recording,Working,Working,Working,Working
+DLink Camera,Schedule,Working,Working,Working,Working
+DLink Camera,Change scene,Working,Working,Working,Working
+DLink Camera,Automation,Working,Working,Working,Working
+DLink Camera,Initial Setup,Working,Working,Working,Working
+Lifx Light,schedules,Working,Working,Working,Working
+Lifx Light,voice control,Working,Working,Working,Working
+Lifx Light,change color,Working,Working,Working,Working
+Lifx Light,scene,Working,Working,Working,Working
+Lifx Light,effects,Working,Working,Working,Working
+Amazon Ring,live view,Working,Working,Working,Working
+Amazon Ring,Notification,Working,Working,Working,Working
+Amazon Ring,2-way audio,Working,Working,Working,Working
+Amazon Ring,motion detection,Working,Working,Working,Working
+Xiaomi Vacuum,clean,Working,Not Working,Not Working,Not Working
+Xiaomi Vacuum,level control,Working,Not Working,Not Working,Not Working
+Xiaomi Vacuum,schedule,Working,Not Working,Not Working,Not Working
+Xiaomi Vacuum,automation,Working,Not Working,Not Working,Not Working
+Xiaomi Vacuum,remote control,Working,Not Working,Not Working,Not Working
+Xiaomi Vacuum,find the vacuum,Working,Not Working,Not Working,Not Working
+Xiaomi Vacuum,Initial Setup,Working,Not Working,Not Working,Not Working
+Sony Console,buy games,Working,Working,Working,Not Working
+Sony Console,download games,Not Working,Working,Working,Not Working
+Sony Console,play games,Not Working,Fail to Connect,Fail to Connect,Not Working
+Sony Console,family control,Working,Not Working,Working,Not Working
+Sony Console,browse store,Working,Working,Working,Not Working
+Sony Console,share screenshots**,Working,Working,Working,Not Working
+Sony Console,live stream,Not Working,Fail to Connect,Fail to Connect,Not Working
+Sony Console,watch live stream,Not Working,Fail to Connect,Not Working,Not Working
+Sony Console,connect to spotify,Not Working,Not Working,Not Working,Not Working
+Google Nest,Change temperature,Working,Not Working,Not Working,Not Working
+Google Nest,Change mode,Working,Not Working,Not Working,Not Working
+Google Nest,Change preset,Working,Not Working,Not Working,Not Working
+Google Nest,Hold temperature,Working,Not Working,Not Working,Not Working
+Google Nest,Turn on the fan,Not Working,Not Working,Not Working,Not Working
+Google Nest,Change schedule,Not Working,Not Working,Not Working,Not Working
+iDevice Switch,Turn on/off,Working,Working,Working,Working
+iDevice Switch,Turn on/off the night light,Working,Working,Working,Working
+iDevice Switch,Change the night light's color,Working,Working,Working,Working
+iDevice Switch,Schedule,Working,Not Working,Not Working,Working
+iDevice Switch,Factory Reset,Working,Working,Working,Working
+Lutron Bridge,Turn on/off,Working,Working,Working,Working
+Lutron Bridge,Add/Change scene,Working,Working,Working,Working
+Lutron Bridge,Add schedule,Working,Working,Working,Working
+Lutron Bridge,Voice control,Working,Working,Working,Working
+Lutron Bridge,Factory Reset + Initial setup,Working,Working,Working,Working
+Roku Streamer,stream video,Working,Not Working,Not Working,Not Working
+Roku Streamer,adjust volume,Working,Working,Working,Not Working
+Roku Streamer,voice control,Working,Working,Working,Not Working
+Roku Streamer,remote control (from phone),Working,Working,Working,Working
+Roku Streamer,search,Working,Working,Working,Not Working
+Logitech Harmony,select activity,Not Working,Not Working,Not Working,Not Working
+Logitech Harmony,turn on/off device,Not Working,Not Working,Not Working,Not Working
+Logitech Harmony,help,Not Working,Not Working,Not Working,Not Working
+Logitech Harmony,set up device,Not Working,Not Working,Not Working,Not Working
+iHome Switch,On/off,Not Working,Not Working,Not Working,Not Working
+iHome Switch,Schedule,Not Working,Not Working,Not Working,Not Working
+iHome Switch,Scene,Not Working,Not Working,Not Working,Not Working
+iHome Switch,Voice control,Not Working,Not Working,Not Working,Not Working
+Ecobee Thermostat,Change Temperature,Working,Working,Working,Working
+Ecobee Thermostat,Select modes,Working,Working,Working,Working
+Ecobee Thermostat,Schedule,Working,Working,Working,Working
+Ecobee Thermostat,Comfort setting,Working,Working,Working,Working
+Ecobee Thermostat,Vacation,Working,Working,Working,Working
+Ecobee Thermostat,Reminder,Working,Working,Working,Working
+Ecobee Thermostat,Fan setting,Working,Working,Working,Working
+Ecobee Thermostat,Follow me,Not Working,Not Working,Not Working,Not Working
+Ecobee Thermostat,Built-in Alexa,Not Working,Not Working,Not Working,Not Working
+Ecobee Thermostat,Factory reset + Initial setup,Working,Working,Working,Working
+Honeywell Thermostat,adjust temerature,Fail to Connect,Fail to Connect,Fail to Connect,Fail to Connect
+Honeywell Thermostat,schedule,Fail to Connect,Fail to Connect,Fail to Connect,Fail to Connect
+Honeywell Thermostat,vacation,Fail to Connect,Fail to Connect,Fail to Connect,Fail to Connect
+Honeywell Thermostat,mode,Fail to Connect,Fail to Connect,Fail to Connect,Fail to Connect
+Honeywell Thermostat,adaptive recovery,Fail to Connect,Fail to Connect,Fail to Connect,Fail to Connect
+Honeywell Thermostat,voice control,Fail to Connect,Fail to Connect,Fail to Connect,Fail to Connect
+Amazon Echo Dot,"Productivity (""What's the time?"")",Working,Working,Working,Working
+Amazon Echo Dot,"Entertainment (""Alexa, play music."")",Working,Working,Working,Working
+Amazon Echo Dot,"Controlling other deivces (""Alexa, turn on/off all Hue lights."")",Working,Working,Working,Working
+Amazon Echo Dot,"Communication (""Alexa, Call Alice"")",Working,Working,Working,Working
+Amazon Echo Dot,"Shopping (""Alexa, search for dog toys"")",Working,Working,Working,Working
+Amazon Echo Dot,"Skills (""Alexa, play thunderstorm sounds"")",Not Working,Not Working,Not Working,Not Working
+Amazon Echo Dot,Factory Reset,Working,Working,Working,Not Working
+Philips Hue,Turn light on/off,Working,Working,Working,Working
+Philips Hue,Adjust light brightness,Working,Working,Working,Working
+Philips Hue,Voice control (through Alexa),Not Working,Not Working,Not Working,Not Working
+Philips Hue,Timer (1 min),Working,Working,Working,Working
+Philips Hue,Routine (Change time to fit for the experiment),Working,Working,Working,Working
+Philips Hue,Factory Reset,Working,Working,Working,Working
+Amazon Fire Stick,"Alexa - built-in feature (""Alexa, find action movies"")",Working,Not Working,Not Working,Not Working
+Amazon Fire Stick,Streaming (Free with ads),Working,Not Working,Not Working,Not Working
+Amazon Fire Stick,Download apps (Download spotify),Working,Not Working,Not Working,Not Working
+Amazon Fire Stick,Factory Reset,Working,Not Working,Not Working,Not Working
+Google Home,"Media (""Google, play some music."")",Working,Working,Working,Working
+Google Home,"Control Chromecast (""hey Google, play Youtube on the Hallway TV"")",Working,Working,Working,Working
+Google Home,"Find your phone (""hey Google, find my phone"")",Working,Working,Working,Working
+Google Home,"Manage tasks (""hey Google, set a timer for 1 min."")",Working,Working,Working,Working
+Google Home,"Control your home (""Hey Google, turn on the wemo plug."")",Working,Working,Working,Working
+Google Home,"Plan (""hey Google, how's the weather"")",Working,Working,Working,Working
+Google Home,Factory Reset,Working,Working,Working,Working
+Google Chromecast,Watch Live TV,Working,Not Working,Not Working,Not Working
+Google Chromecast,Factory Reset,Working,Not Working,Working,Working
+Wyze Cam,Live streaming,Not Working,Not Working,Not Working,Working
+Wyze Cam,Event recording,Not Working,Not Working,Not Working,Not Working
+Wyze Cam,Motion Tagging,Not Working,Not Working,Not Working,Working
+Wyze Cam,Night vision,Not Working,Not Working,Not Working,Working
+Wyze Cam,2-way audio,Not Working,Not Working,Not Working,Working
+Wyze Cam,sharing,Not Working,Not Working,Not Working,Working
+Wyze Cam,Rules,Not Working,Not Working,Not Working,Not Working
+Wyze Cam,On,Not Working,Not Working,Not Working,Not Working
+Wyze Cam,Off,Not Working,Not Working,Not Working,Not Working
+Wyze Cam,Factory Reset,Not Working,Not Working,Not Working,Not Working
+Belkin Wemo,On,Working,Working,Working,Working
+Belkin Wemo,Off,Working,Working,Working,Working
+Belkin Wemo,Scheduling,Working,Working,Working,Working
+Belkin Wemo,Auto-off,Working,Working,Working,Working
+Belkin Wemo,Away mode,Working,Working,Working,Working
+Belkin Wemo,Factory Reset,Working,Working,Working,Working
+TP-Link,On,Working,Working,Working,Not Working
+TP-Link,Off,Working,Working,Working,Not Working
+TP-Link,Scheduling,Working,Working,Working,Not Working
+TP-Link,Timer,Working,Working,Working,Not Working
+TP-Link,Away mode,Working,Working,Working,Not Working
+TP-Link,Factory Reset,Working,Working,Working,Not Working
+Sonos One,Radio,Working,Not Working,Not Working,Not Working
+Sonos One,Streaming,Not Working,Working,Working,Not Working
+Sonos One,Change volume,Working,Working,Working,Not Working
+Sonos One,Pause,Working,Working,Working,Not Working
+Sonos One,Voice control (streaming),Not Working,Not Working,Not Working,Not Working
+Sonos One,Voice control (volume),Working,Working,Working,Not Working
+Sonos One,Factory Reset,Working,Working,Working,Not Working
